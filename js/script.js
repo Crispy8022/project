@@ -49,4 +49,4 @@ console.log("2" == 2);
 let isChecked = false;
 let isClose = true;
 
-console.log(isChecked || !isClose) 
+console.log(isChecked || !isClose)
