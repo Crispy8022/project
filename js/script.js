@@ -36,7 +36,7 @@ console.log(a);
 // console.log(4 + +" - object");
 
 let incr = 10;
-let decr = 10;
+// let decr = 10;
 
 incr++;
 decr++;
